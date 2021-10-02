@@ -1,10 +1,10 @@
-# 🏃‍♀️apiTreiner :running_man:
+# 🏃‍♀️apiTrainer:running_man:
 
 El estado fisico y la vida saludable siempre son temas que nos interesa entre la mayoria de las personas. Con lo que muchas muchas veces practicamos algun deporte o llevamos acabo un entrenamiento. Siempre queremos mejorar y algunas veces pude llegar a ser frustrarte o tedioso saber si nuestro entrenamiento es efectivo y da resultados o si debemos modificarlo.
 
 ## 📝 Sobre el proyecto
 
-`apiTreiner` pretende convertirse en una herramienta para entrenadores y usuarios habituales. Que quiere resolver u ofrecer:
+__apiTrainer__ pretende convertirse en una herramienta para entrenadores y usuarios habituales, para facilitar la monitorización de sus entrenamientos. Que quiere resolver y ofrecer:
 
 - Asistencia en entrenamiento personal calculando estado fisico de un usuario en un punto concreto de su entrenamiento.
 
@@ -16,7 +16,7 @@ El estado fisico y la vida saludable siempre son temas que nos interesa entre la
 
 - analisis de los resultados de un conjunto de usuarios que realizan el mismo entrenamiento.
 
-
+# 🛠️ Estado del desarrollo.
 
 ## Autor
 
