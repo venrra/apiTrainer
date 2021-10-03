@@ -28,11 +28,11 @@ Aun se esta dando forma a la idea base. Se preve un primer Releases en 3 semanas
 
 ## Tareas pendientes
 
-- [] [HU2] Como Laura quiero saber como representar los valores de frecuencia cardíaca para poder operar con ellos
+- [ ] [HU2] Como Laura quiero saber como representar los valores de frecuencia cardíaca para poder operar con ellos
 
-- [] [HU1] Como Laura quiero saber mi valor de recuperación.
+- [ ] [HU1] Como Laura quiero saber mi valor de recuperación.
 
-- [] Crear docuementacion de personas, user-jurney y definiciones o palabras clave. debe ser lo minimo para cubrir [HU1] y [H1]
+- [x] Crear docuementacion de personas, user-jurney y definiciones o palabras clave. debe ser lo minimo para cubrir [HU1] y [H1]
 
 ## Documentación
 
@@ -42,6 +42,7 @@ Podéis encontrar todo la documentación, terminología, biografías de usuarios
 - [Terminología](./docs/terminologia.md)
 - [user jurney](./docs/user-jurney.md)
 
+🙈
 ## Autor
 
 - [Venrra](https://github.com/venrra/)
