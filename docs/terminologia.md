@@ -1,4 +1,4 @@
-# Terminología, Métodos y Definiciones.
+# Terminología y Definiciones.
 
 - ## Heart Rate(HR):
 
