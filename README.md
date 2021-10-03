@@ -10,6 +10,8 @@ __apiTrainer__ pretende convertirse en una herramienta para entrenadores y usuar
 
 - Calcular el [valor de recuperación](./docs/terminologia.md#Calculo-del-valor/tiempo-de-recuperación-HR) de un usuario.
 
+
+
 - Ofrecer estadisticas de entrenamiento por usuario.
 
 - Calcular mejora fisica de un usuario.
