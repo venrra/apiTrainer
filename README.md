@@ -2,7 +2,7 @@
 
 El estado fisico y la vida saludable siempre son temas que nos interesa entre la mayoria de las personas. Con lo que muchas muchas veces practicamos algun deporte o llevamos acabo un entrenamiento. Siempre queremos mejorar y algunas veces pude llegar a ser frustrarte o tedioso saber si nuestro entrenamiento es efectivo y da resultados o si debemos modificarlo.
 
-## 📝 Sobre el proyecto
+## 📝🆕 Sobre el proyecto
 
 __apiTrainer__ pretende convertirse en una herramienta para entrenadores y usuarios habituales, para facilitar la monitorización de sus entrenamientos. Que quiere resolver y ofrecer:
 
@@ -26,7 +26,7 @@ Aun se esta dando forma a la idea base. Se preve un primer Releases en 3 semanas
 
 [Aqui](https://github.com/venrra/apiTrainer/milestones) se puede ver los primeros objetivos y su estado. 
 
-## Tareas pendientes
+## 🆕Tareas pendientes
 
 - [ ] [HU2] Como Laura quiero saber como representar los valores de frecuencia cardíaca para poder operar con ellos
 
@@ -34,7 +34,7 @@ Aun se esta dando forma a la idea base. Se preve un primer Releases en 3 semanas
 
 - [x] Crear docuementacion de personas, user-jurney y definiciones o palabras clave. debe ser lo minimo para cubrir [HU1] y [H1]
 
-## Documentación
+## 📄Documentación
 
 Podéis encontrar todo la documentación, terminología, biografías de usuarios en [/docs](./docs) y en la [wiki](https://github.com/venrra/apiTrainer/wiki). Lo más destacable:
 
@@ -42,7 +42,6 @@ Podéis encontrar todo la documentación, terminología, biografías de usuarios
 - [Terminología](./docs/terminologia.md)
 - [user jurney](./docs/user-jurney.md)
 
-🙈
 ## Autor
 
 - [Venrra](https://github.com/venrra/)
