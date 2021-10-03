@@ -20,7 +20,7 @@ __apiTrainer__ pretende convertirse en una herramienta para entrenadores y usuar
 
 En concreto, se quiere ofrecer al usuario el cálculo del valor de recuperación, estadísticas de su entrenamiento y estadísticas sobre grupos de usuarios. Para ello se usaran valores de frecuencia cardiaca aportados por el usuario, que junto a caracteristicas como altura, peso o el sexo, dara un valor como el _tiempo de recuperación_ (entre otros). Con estos resultados se podran construir estadisticas sobre el entrenamiento de un usuario.
 
-# 🛠️ Estado del desarrollo.
+## 🛠️ Estado del desarrollo.
 
 Ahora mismos se estan dando los primeros pasos y concretando el rumbo a seguir. Se estan definiendo las primeras tareas y analizando las funcionalidades basicas [M1](https://github.com/venrra/apiTrainer/milestones/1) y [M2](https://github.com/venrra/apiTrainer/milestones/2).
 
