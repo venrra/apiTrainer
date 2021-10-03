@@ -12,6 +12,9 @@ Normal mente la frecuencia cardíaca en reposo normal para los adultos es de ent
 
 Es un valor que representa la adaptación de una persona a sesiones de entrenamiento, o dicho de otra forma, capacidad que se tiene para reducir el número de latidos tras terminar un entrenamiento.
 
+- ## VO2 Max
+Es el volumen máximo de oxigeno que cabe en los pulmones. La capcidad pulmonar se asocia con tu resistencia cardiovascular. Más info [aquí](https://www.palabraderunner.com/vo2-max-que-es-y-formula/).
+
 - ## Calculo del valor/tiempo de recuperación HR.
 
 Dado un conjunto de valores HR __hr*__ durante un rango de tiempo __t__, obtenemos la ecuación de la recta y su constante sera representada por __hrrec__.  
