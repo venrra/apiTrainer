@@ -17,9 +17,9 @@ Ademas no ha encontrado un método que sea fiable para analizar la mejora físic
 
 - Usuario particular
 - Edad 55 años.
-- Carmen es una profesora que quiere, invertir su tiempo en mejorar su calidad de vida. No esta muy acostumbrada a usar programas complejos y no quiere invertir mucho dinero en un entrenador personal.
+- Carmen es una profesora que quiere invertir su tiempo en mejorar su calidad de vida. No esta muy acostumbrada a usar programas complejos y no quiere invertir mucho dinero en un entrenador personal.
 
 ## Don Dinero
 
 - Empresas deportivas y gimnasios.
-- Buscan información perfiles de gente interesa en servicios deportivos. también buscan información sobre las capacidades de cada persona para ofrecerles un entrenamiento dirigido.
+- Buscan información de perfiles de gente interesada en servicios deportivos. También buscan información sobre las capacidades de cada persona para ofrecerles un entrenamiento personalizado.
