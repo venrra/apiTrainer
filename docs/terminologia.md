@@ -2,18 +2,17 @@
 
 - ## Heart Rate(HR):
 
-Valor de frecuencia cardíaca es el número de veces que se contrae el corazón durante un rango de tiempo (Normal mente en 1 minuto).
+Valor de frecuencia cardíaca es el número de veces que se contrae el corazón durante un rango de tiempo (Normalmente en 1 minuto).
 
 - ## HR en reposo
-
-Normal mente la frecuencia cardíaca en reposo normal para los adultos es de entre 60 y 100 latidos por minuto.
+La frecuencia cardíaca en reposo normal para los adultos es de entre 60 y 100 latidos por minuto.
 
 - ## Valor de recuperación de frecuencia cardíaca(HR).
 
 Es un valor que representa la adaptación de una persona a sesiones de entrenamiento, o dicho de otra forma, capacidad que se tiene para reducir el número de latidos tras terminar un entrenamiento.
 
 - ## VO2 Max
-Es el volumen máximo de oxigeno que cabe en los pulmones. La capcidad pulmonar se asocia con tu resistencia cardiovascular. Más info [aquí](https://www.palabraderunner.com/vo2-max-que-es-y-formula/).
+Es el volumen máximo de oxigeno que cabe en los pulmones. La capacidad pulmonar se asocia con tu resistencia cardiovascular. Más info [aquí](https://www.palabraderunner.com/vo2-max-que-es-y-formula/).
 
 - ## Calculo del valor/tiempo de recuperación HR.
 
