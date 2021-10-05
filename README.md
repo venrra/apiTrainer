@@ -16,7 +16,7 @@ __apiTrainer__ pretende convertirse en una herramienta para entrenadores y usuar
 
 - Calcular mejora fisica de un usuario.
 
-- analisis de los resultados de un conjunto de usuarios que realizan el mismo entrenamiento.
+- Análisis de los resultados de un conjunto de usuarios que realizan el mismo entrenamiento.
 
 En concreto, se quiere ofrecer al usuario el cálculo del valor de recuperación, estadísticas de su entrenamiento y estadísticas sobre grupos de usuarios. Para ello se usaran valores de frecuencia cardiaca aportados por el usuario, que junto a caracteristicas como altura, peso o el sexo, dara un valor como el _tiempo de recuperación_ (entre otros). Con estos resultados se podran construir estadisticas sobre el entrenamiento de un usuario.
 
