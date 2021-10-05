@@ -46,4 +46,4 @@ Podéis encontrar todo la documentación, terminología, biografías de usuarios
 
 ## Autor
 
-- [Venrra](https://github.com/venrra/) caraculo
+- [Venrra](https://github.com/venrra/)
