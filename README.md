@@ -10,8 +10,6 @@ __apiTrainer__ pretende convertirse en una herramienta para entrenadores y usuar
 
 - Calcular el [valor de recuperación](./docs/terminologia.md#Calculo-del-valor/tiempo-de-recuperación-HR) de un usuario.
 
-
-
 - Ofrecer estadísticas de entrenamiento por usuario.
 
 - Calcular mejora fisica de un usuario.
@@ -30,9 +28,9 @@ Aún se está dando forma a la idea base. Se prevé un primer Releases en 3 sema
 
 ## 🆕Tareas pendientes
 
-- [ ] [HU2] Como Laura quiero saber como representar los valores de frecuencia cardíaca para poder operar con ellos
+- [ ] [[HU2]](https://github.com/venrra/apiTrainer/issues/4) Como Laura quiero saber como representar los valores de frecuencia cardíaca para poder operar con ellos
 
-- [ ] [HU1] Como Laura quiero saber mi valor de recuperación.
+- [ ] [[HU1]](https://github.com/venrra/apiTrainer/issues/3) Como Laura quiero saber mi valor de recuperación.
 
 - [x] Crear docuementacion de personas, user-jurney y definiciones o palabras clave. Debe ser lo mínimo para cubrir [HU1] y [H1]
 
