@@ -32,7 +32,7 @@ Aun se esta dando forma a la idea base. Se preve un primer Releases en 3 semanas
 
 - [ ] [[HU1]](https://github.com/venrra/apiTrainer/issues/3) Como Laura quiero saber mi valor de recuperación.
 
-- [x] Crear docuementacion de personas, user-jurney y definiciones o palabras clave. debe ser lo minimo para cubrir [HU1] y [H1]
+- [x] Crear docuementacion de personas, user-journey y definiciones o palabras clave. debe ser lo minimo para cubrir [HU1] y [H1]
 
 ## 📄Documentación
 
@@ -40,7 +40,7 @@ Podéis encontrar todo la documentación, terminología, biografías de usuarios
 
 - [Personas](./docs/personas.md)
 - [Terminología](./docs/terminologia.md)
-- [user jurney](./docs/user-jurney.md)
+- [user journey](./docs/user-journey.md)
 
 ## Autor
 
