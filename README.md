@@ -16,7 +16,13 @@ __apiTrainer__ pretende convertirse en una herramienta para entrenadores y usuar
 
 - analisis de los resultados de un conjunto de usuarios que realizan el mismo entrenamiento.
 
-En concreto, se quiere ofrecer al usuario el cálculo del valor de recuperación, estadísticas de su entrenamiento y estadísticas sobre grupos de usuarios. Para ello se usaran valores de frecuencia cardiaca aportados por el usuario, que junto a caracteristicas como altura, peso o el sexo, dara un valor como el _tiempo de recuperación_ (entre otros). Con estos resultados se podran construir estadisticas sobre el entrenamiento de un usuario.
+En concreto, se quiere ofrecer al usuario el cálculo del valor de recuperación, estadísticas de su entrenamiento y estadísticas sobre grupos de usuarios. Para ello se usarán valores de frecuencia cardiaca aportados por el usuario, que junto a caracteristicas como altura, peso o el sexo, dará un valor como el _tiempo de recuperación_ (entre otros). Con estos resultados se podrán construir estadisticas sobre el entrenamiento de un usuario.
+
+Además se pretende NO anclar esta herramienta a una aplicación, es decir no solo un tipo de aplicación podrá usar la herramienta (app móvil, web...). Claramente un ejemplo de uso sería una aplicación móvil que a través de un sensor de frecuencia cardiaca podrá leer valores de HR y los enviase a __apiTrainer__, pudiendo calcular una sesión de entrenamiento, pero además generando estadísticas de todos los entrenamientos que se han realizado, no solo de un usuario sino de varios; a su vez, un entrenador podrá usar __apiTrainer__ para calcular estadísticas de sus clientes ya sea con aplicación móvil, web o lo que proceda.
+ 
+Otro ejemplo sería el uso de __apiTrainer__ en dispositivos específicos de entrenamiento diseñados específicamente para el deporte pero con capacidad de comunicación.
+ 
+La funcionalidad de __apiTrainer__ estaría descentralizada de un dispositivo pudiendo, crear entornos de entrenamiento más dinámicos.
 
 ## 🛠️ Estado del desarrollo.
 
