@@ -1,0 +1,3 @@
+# User journey
+
+__Laura__ realiza su rutina de ejercicios pero quiere saber si esta mejorando. Para ello una vez al mes realiza una prueba de recuperación. Durante 45 segundos realiza ejercicio intenso y posterior mente toma mediciones de su frecuenta cardiaca durante 3 minutos. Esos valores los envia a su aplicación para que calcule su tiempo de reposo que representa la "calidad" de recuperación. Con un conjunto de esos tiempos podra saber si esta mejorando o no su estado fisico y en consecuencia cambiar o seguir su entrenamiento.
