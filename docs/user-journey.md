@@ -1,3 +1,5 @@
 # User journey
 
 __Laura__ realiza su rutina de ejercicios pero quiere saber si esta mejorando. Para ello una vez al mes realiza una prueba de recuperación. Durante 45 segundos realiza ejercicio intenso y posterior mente toma mediciones de su frecuenta cardiaca durante 3 minutos. Esos valores los envia a su aplicación para que calcule su tiempo de reposo que representa la "calidad" de recuperación. Con un conjunto de esos tiempos podra saber si esta mejorando o no su estado fisico y en consecuencia cambiar o seguir su entrenamiento.
+
+__Sergio__ entrena a varias personas. Ahora mismo calcula las estadisticas de sus clientes con una oja de calculo, desde su ordenado. Le resulta muy tedioso, necesita descentralizar sus calculos y ademas no quiere hacerlos amano. Por ello cambia su modelo de trabajo y usa __apiTrailer__, solo tiene que enviarles los datos de cada usuario y las pulsaciones de cada sesion y __apiTrailer__ le devolvera si un cliente esta mejorando o no. Ademas crea estadisticas por entrenamiento y puede corregir si un entrenamiento es funcional o no.
