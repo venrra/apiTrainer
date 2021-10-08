@@ -1,5 +1,7 @@
 # 🏃‍♀️apiTrainer:running_man:
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 El estado físico y la vida saludable siempre son temas que nos interesan entre la mayoria de las personas, con lo que muchas muchas veces practicamos algun deporte o llevamos a cabo un entrenamiento. Siempre queremos mejorar y algunas veces puede llegar a ser frustrante o tedioso saber si nuestro entrenamiento es efectivo y da resultados o si debemos modificarlo.
 
 ## 📝🆕 Sobre el proyecto
