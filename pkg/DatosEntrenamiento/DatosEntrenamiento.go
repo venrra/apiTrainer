@@ -1,7 +1,7 @@
 package DatosEntrenamiento
 
 type DatosEntrenamiento struct {
-	hr_recuperacion []int
+	hr []uint8
 	tiempo          []int
 }
 
