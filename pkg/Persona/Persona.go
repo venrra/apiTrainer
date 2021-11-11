@@ -1,8 +1,10 @@
 package Persona
 
+import time
+
 type Persona struct {
-	Edad   int
-	Sexo   int
+	fecha_nacimiento  time.Time
+	Sexo   string
 	Altura float32
 	Peso   float32
 }
