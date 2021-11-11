@@ -1,3 +1,4 @@
 lenguaje: go
-entidad: pkg/datosEntrenamiento.go
-entidad: pkg/Persona.go
+entidad: 
+  -pkg/Persona.go
+  -pkg/DatosEntrenamiento.go
