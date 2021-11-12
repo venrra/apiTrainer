@@ -1,5 +1,4 @@
 package Persona
-
 import time
 
 type Persona struct {
