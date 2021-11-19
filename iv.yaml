@@ -1,0 +1,4 @@
+lenguaje: go
+entidad: 
+  -pkg/Persona.go
+  -pkg/DatosEntrenamiento.go
